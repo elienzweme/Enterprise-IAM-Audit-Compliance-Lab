@@ -64,12 +64,6 @@ The project focuses on:
 
 # Documentation
 
-## Full Project Report
-
-📄 [Enterprise IAM Audit Report (PDF)](Docs/Enterprise%20IAM%20Audit.pdf)
-
----
-
 ## 📄 Project Report
 
 <p align="center">
