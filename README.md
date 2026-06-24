@@ -13,7 +13,7 @@ Active Directory IAM audit lab leveraging PowerShell automation to identify inac
 # Cover Page
 
 <p align="center">
-  <img src="Docs/architecturediagram.png" width="1000">
+  <img src="Docs/coverpage.png" width="1000">
 </p>
 
 ---
@@ -66,7 +66,17 @@ The project focuses on:
 
 ## Full Project Report
 
-📄 [Enterprise IAM Audit Report](Docs/Enterprise%20IAM%20Audit.docx)
+📄 [Enterprise IAM Audit Report (PDF)](Docs/Enterprise%20IAM%20Audit.pdf)
+
+---
+
+## 📄 Project Report
+
+<p align="center">
+  <a href="Docs/Enterprise%20IAM%20Audit.pdf">
+    <img src="https://img.shields.io/badge/View-Full%20Project%20Report-red?style=for-the-badge&logo=adobeacrobatreader">
+  </a>
+</p>
 
 ---
 
