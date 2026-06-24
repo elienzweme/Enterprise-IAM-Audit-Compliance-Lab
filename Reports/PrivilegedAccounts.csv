@@ -1,0 +1,4 @@
+"Name","SamAccountName","ObjectClass"
+"Administrator","Administrator","user"
+"ITAdmin","itadmin","user"
+"iam.admin","iam","user"
