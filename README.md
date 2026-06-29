@@ -310,13 +310,12 @@ This project demonstrates how organizations can:
 
 **Elie Pala Nzweme**
 
+June 2026
+
 Cybersecurity Analyst | Identity & Access Management
 
 - LinkedIn: https://www.linkedin.com/in/elienzweme
 - GitHub: https://github.com/elienzweme
 
 ---
-
-# License
-
-This project is provided for educational, portfolio, and cybersecurity training purposes.
+> **Disclaimer:** This project was conducted within an isolated VMware lab environment for educational, research, and professional portfolio purposes. No production systems or third-party networks were assessed.
