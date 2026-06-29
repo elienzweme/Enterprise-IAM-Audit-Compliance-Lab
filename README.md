@@ -318,4 +318,12 @@ Cybersecurity Analyst | Identity & Access Management
 - GitHub: https://github.com/elienzweme
 
 ---
-> **Disclaimer:** This project was conducted within an isolated VMware lab environment for educational, research, and professional portfolio purposes. No production systems or third-party networks were assessed.
+## Disclaimer
+
+This project was conducted in a controlled lab environment for educational and portfolio purposes only. All systems were owned or authorized for testing. The techniques demonstrated should only be used against systems for which explicit authorization has been obtained.
+
+---
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
